@@ -3,9 +3,10 @@
   "name": "AI Mask Detection System",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022570.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/883/883360.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
   "start_url": "./index.html",
