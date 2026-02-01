@@ -1,0 +1,16 @@
+{
+  "short_name": "MaskDetector",
+  "name": "AI Mask Detection System",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022570.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#2D6A4F",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#2D6A4F"
+}
